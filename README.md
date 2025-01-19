@@ -13,7 +13,6 @@ Intellecta is a fine-tuned version of the [meta-llama/Llama-3.2-1B](https://hugg
 - [Training Hyperparameters](#training-hyperparameters)
 - [Framework Versions](#framework-versions)
 - [Usage](#usage)
-- [License](#license)
 
 ## Model Description
 
